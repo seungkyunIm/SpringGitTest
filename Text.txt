@@ -1,2 +1,8 @@
 # git hub에서 프로젝트 받기 명령어
 > git clone 깃허브주소(저장소)
+
+1. 저장소 폴더 경로 이동(숨어 있는 .git 폴더 위치)
+2. 신규 또는 수정, 삭제 추가 > git add *
+3. 설명 달기 > git commit -m "내용"
+4. github에 파일 올리기 > git push origin main (브런치 대상 확인 후 정의)
+
