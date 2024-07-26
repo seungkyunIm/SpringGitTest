@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Select;
 @Mapper
 public interface TestMapper {
 
-	@Select("slect 1 as no")
+	@Select("select 1 as no")
 	public int testDB();
 	
 }
